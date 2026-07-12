@@ -1,10 +1,10 @@
-💱 CodeClub Conversor de Moedas
+ CodeClub Conversor de Moedas
 Um conversor de moedas simples e funcional desenvolvido com HTML, CSS e JavaScript puro. Permite converter valores em Real brasileiro para Dólar Americano, Euro, Bitcoin e Libra Esterlina.
 
 Interface mobile-first com design limpo, seleção de moeda e exibição visual do resultado com ícones de cada país/moeda.
 
 
-🚀 Funcionalidades
+ Funcionalidades
 
 Conversão de Real (BRL) para:
 
@@ -19,7 +19,7 @@ Troca dinâmica de ícone e nome da moeda ao selecionar
 Interface responsiva e centrada
 
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 
 HTML5 — Estrutura semântica da aplicação
 CSS3 — Estilização, responsividade e layout
